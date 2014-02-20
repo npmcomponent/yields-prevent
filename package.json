@@ -1,0 +1,11 @@
+{
+  "name": "yields-prevent",
+  "description": "Cross-browser preventDefault",
+  "version": "0.0.2",
+  "keywords": [
+    "prevent",
+    "preventDefault"
+  ],
+  "dependencies": {},
+  "license": "MIT"
+}
